@@ -1,8 +1,10 @@
 ## "AI Hiring Assistant"
 
 
-emoji: "🧠💼"
-description: "A local LLaMA 3-powered AI Hiring Assistant built with Streamlit to automate candidate screening and evaluation."
+
+description: "A local LLaMA 3-powered AI Hiring Assistant built with Streamlit to automate candidate screening and evaluation. This application leverages a powerful large language model (LLaMA 3) running locally, integrated with an interactive Streamlit interface, to streamline the hiring process by automatically analyzing candidate data, answering technical queries, and assisting recruiters in making informed decisions faster and more accurately.
+
+Additionally, it features an integrated Applicant Tracking System (ATS) module to manage candidate pipelines efficiently, track application statuses, and organize recruitment workflows — all within the same platform. This ensures end-to-end hiring automation, from resume screening to candidate communication and selection."
 
 project_overview: |
   AI Hiring Assistant is a Streamlit web app designed to streamline the technical screening process.
