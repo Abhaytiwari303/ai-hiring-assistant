@@ -1,4 +1,6 @@
-title: "AI Hiring Assistant"
+## "AI Hiring Assistant"
+
+
 emoji: "🧠💼"
 description: "A local LLaMA 3-powered AI Hiring Assistant built with Streamlit to automate candidate screening and evaluation."
 
