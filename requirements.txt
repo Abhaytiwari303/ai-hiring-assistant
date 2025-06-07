@@ -1,2 +1,8 @@
 streamlit
 requests
+pdfplumber
+scikit-learn
+nltk
+ollama
+pandas
+numpy
