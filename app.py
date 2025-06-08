@@ -33,7 +33,7 @@ if "show_resume" not in st.session_state:
 # Function to ask local LLaMA model via Ollama API
 def ask_llama(prompt):
     try:
-        response = requests.post("http://localhost:11434/api/generate", json={
+        response = requests.post("http://127.0.0.1:11434/api/generate", json={
             "model": "llama3",
             "prompt": prompt,
             "stream": False
